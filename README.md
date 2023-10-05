@@ -1,4 +1,4 @@
-# StatsBomb Open Data
+## StatsBomb Open Data Preamble
 
 Welcome to the StatsBomb Open Data repository.
 
@@ -6,11 +6,11 @@ StatsBomb are committed to sharing new data and research publicly to enhance und
 
 StatsBomb are hoping that by making data freely available, we will extend the wider football analytics community and attract new talent to the industry.
 
-## Terms & Conditions
+### Terms & Conditions
 
 If you publish, share or distribute any research, analysis or insights based on this data, please state the data source as StatsBomb and use our logo, available in our [Media Pack](https://statsbomb.com/media-pack/).
 
-## Getting Started
+### Getting Started
 
 The [data](./data/) is provided as JSON files exported from the StatsBomb Data API, in the following structure:
 
