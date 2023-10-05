@@ -1,5 +1,14 @@
 # StatsBomb Open Data Project - What Made the 03/04 Arsenal Invincibles Invincible?
 
+## Introduction
+
+This is a small exploratory project investigating the StatsBomb data for the 03/04 season, which is the season Arsenal went unbeaten, the only team ever to do so.
+
+## The Data
+
+## Exploratory Data Analysis 
+
+## Discussion and Further Work
 
 ## StatsBomb Open Data Preamble
 
