@@ -1,10 +1,12 @@
-# StatsBomb Open Data Project - What Made the 03/04 Arsenal Invincibles Invincible?
+# StatsBomb Open Data Project - Are the 03/04 Arsenal Invincibles the Best Team Ever?
 
 ## Introduction
 
-This is a small exploratory project investigating the StatsBomb data for the 03/04 season, which is the season Arsenal went unbeaten, the only team ever to do so.
+This small project explores StatsBomb's data for the 03/04 season. In this season, Arsenal did not lose a single game, the only team ever to do so throughout a whole season. Therefore, some may say that this Arsenal team is the best to ever play in the Premier League, but do the statistics back this up?
 
 ## The Data
+
+The publically available data from StatsBomb consists of 
 
 ## Exploratory Data Analysis 
 
